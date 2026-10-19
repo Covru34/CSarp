@@ -1,0 +1,5 @@
+C:\Users\Mykola42\Documents\Study\С#\Lessons 2. If-For\MyRandom\MyRandom\obj\Debug\net10.0\MyRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mykola42\Documents\Study\С#\Lessons 2. If-For\MyRandom\MyRandom\obj\Debug\net10.0\MyRandom.AssemblyInfoInputs.cache
+C:\Users\Mykola42\Documents\Study\С#\Lessons 2. If-For\MyRandom\MyRandom\obj\Debug\net10.0\MyRandom.AssemblyInfo.cs
+C:\Users\Mykola42\Documents\Study\С#\Lessons 2. If-For\MyRandom\MyRandom\obj\Debug\net10.0\MyRandom.csproj.CoreCompileInputs.cache
+C:\Users\Mykola42\Documents\Study\С#\Lessons 2. If-For\MyRandom\MyRandom\obj\Debug\net10.0\MyRandom.sourcelink.json
